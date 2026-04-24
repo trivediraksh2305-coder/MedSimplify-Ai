@@ -1,0 +1,12 @@
+                                                                                         streamlit
+groq
+PyPDF2
+pdfplumber
+pandas
+numpy
+deep-translator
+gTTS
+bcrypt
+python-dotenv
+pymupdf
+                                                                                           
